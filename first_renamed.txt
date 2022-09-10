@@ -1,0 +1,7 @@
+This is version one of my project
+
+I want this to go into commit
+
+this is txt file
+
+This is change now
